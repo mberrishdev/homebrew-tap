@@ -7,7 +7,7 @@ cask "vercel-bar" do
   desc "Native macOS menu bar app for Vercel deployments, build logs and alerts"
   homepage "https://vercelbar.mberrishdev.me"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura, or_newer: true
 
   app "Vercel Bar.app"
 
