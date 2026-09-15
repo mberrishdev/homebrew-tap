@@ -1,6 +1,6 @@
 cask "vercel-bar" do
   version "0.1.0"
-  sha256 "162cc41d96be7123a247b7d61ec40fecee41c4bbddfa4646066130d2d05154aa"
+  sha256 "68e1a3fcbd294d957027ccecea4882d638ce54478f121c46cca9dcb4e1c05ba9"
 
   url "https://github.com/mberrishdev/vercelbar-releases/releases/download/v#{version}/VercelBar-#{version}.dmg"
   name "Vercel Bar"
