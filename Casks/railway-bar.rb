@@ -1,6 +1,6 @@
 cask "railway-bar" do
-  version "0.1.0"
-  sha256 "ff25b8ee27f6bb3787c918a3bc0631028366e9b5c5c2bbec0541aeea40aed1ab"
+  version "0.1.1"
+  sha256 "b21e30932b8f522091c7523514fe39c5c292f3c974b0aa1754a0dfd1eb467075"
 
   url "https://github.com/mberrishdev/railwaybar-releases/releases/download/v#{version}/RailwayBar-#{version}.dmg"
   name "Railway Bar"
